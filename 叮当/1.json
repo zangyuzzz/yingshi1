@@ -1,0 +1,72 @@
+{
+  "spider": "./9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "sites": [
+    {
+      "key": "无广告",
+      "name": "推荐┃专线┃🍊",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.246.250.34:1555/api.php/app/"
+    },
+    {
+      "key": "潮流",
+      "name": "推荐┃主线┃（1）",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "蔬菜",
+      "name": "推荐┃备用┃（2）",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
+    }
+  ],
+  "parses": [
+    {
+      "name": "官方线路（解析1）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=be3c375df25942b49cc17e7f25134104&url="
+    },
+    {
+      "name": "官方线路（解析2）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=ee2c7a0193bf47f992c00fbdbdd99f7d&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "SHNB"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "./lib/zb.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ]
+}
