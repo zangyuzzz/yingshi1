@@ -65,17 +65,6 @@
       "filterable": 1
     },
     {
-      "key": "bili",
-      "name": "🎨┆笔触┆琉璃",
-      "type": 3,
-      "api": "",
-      "searchable": ,
-      "quickSearch": ,
-      "ext": {
-        "cookie": ""
-      }
-    },
-    {
       "key": "FishPs",
       "name": "🐟┆鱼鱼┆盘搜",
       "type": 3,
