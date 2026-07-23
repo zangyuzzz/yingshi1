@@ -36,7 +36,7 @@
   "key": "机哥剧圈",
             "name": "芒果|4K",
             "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "api": "https://raw.giteeusercontent.com/zangyuzzz/zangyuzzz2/raw/master/mangguo4k.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJtYW5nZ3VvNGsuanMiLCJ1aWQiOjEzODExNzA2LCJwaWQiOjMyMzk2MzI0LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wNDIiLCJycCI6InJlcG9zLzQ3LzQzLzQ3NDMyMWExZWNkOGVmODk4ZDM2MmRhMzY3NjBkN2U0MTNmZGIwZWYzZDlkODc3MDIwMzRiZDc2YTk3N2NlYjMuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODQ3NjYwMDB9&signature=ix1osKeQSOE2QEqucSkUMkoFdYbrw1MY8YbAIp7XcLU",
             "ext": "./lib/mg.js"
         },
         
