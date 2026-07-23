@@ -1,5 +1,5 @@
 {
-  "notice": "公众号：机缘宝盒 ┃ 更新地址：link3.cc/jyqh",
+  "notice": "更新地址：link3.cc/jyqh",
   "spider": "./kai.jar",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号：机缘宝盒 内部使用 禁止传播 更新地址：link3.cc/jyqh",
+      "name": "更新地址：link3.cc/jyqh",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
