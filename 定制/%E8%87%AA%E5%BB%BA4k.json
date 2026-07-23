@@ -31,14 +31,14 @@
       "key": "qq",
       "name": "🔥腾腾|4K①",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
       "ext": "./lib/qq.js"
     },
     {
       "key": "mg",
       "name": "🔥茫茫|4K②",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
       "ext": "./lib/mg.js"
     },
     {
