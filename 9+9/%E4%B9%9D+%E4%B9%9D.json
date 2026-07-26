@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/zangyuzzz/yingshi1/refs/heads/main/9%2B9/custom_spiderh.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+  "spider": "./custom_spiderh.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
   "lives": [
     {
       "name": "直播",
