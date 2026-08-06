@@ -3,30 +3,13 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   "sites": [
-    {
-      "key": "无广告",
-      "name": "推荐┃专线┃🍊",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.246.250.34:1555/api.php/app/"
-    },
+   
     {
       "key": "潮流",
       "name": "推荐┃主线┃（1）",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "蔬菜",
-      "name": "推荐┃备用┃（2）",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
     }
   ],
   "parses": [
