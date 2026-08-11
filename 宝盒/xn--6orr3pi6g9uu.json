@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "如果你是花钱买的，那你就上当了",
+      "name": "恭喜发财",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/bh2601251.jar",
