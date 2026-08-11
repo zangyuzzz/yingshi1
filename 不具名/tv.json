@@ -73,34 +73,6 @@
       "jar": "http://47.120.41.246:8025/vip/jar/ouge.php"
     },
     {
-      "key": "电影先生",
-      "name": "🔥电影┃先生",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://silidm.com/",
-        "数组": "class=\"module-item-cover\"&&</div>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"play-source-content&&</div>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "class=\"play-source-tab\"&&div>",
-        "线路标题": "播放器",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
-      }
-    },
-    {
       "key": "荐片",
       "name": "🧲荐片┃1080P",
       "quickSearch": 0,
@@ -254,15 +226,7 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-    {
-      "key": "如意采集资源",
-      "name": "🔥如意┃采集",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "csp_Bili",
       "name": "📺哔哩┃哔哩",
