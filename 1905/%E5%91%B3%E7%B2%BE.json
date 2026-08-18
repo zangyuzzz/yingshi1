@@ -1,0 +1,921 @@
+{
+  "sites": [
+   {
+      "key": "1905",
+      "name": "⚡1905┃老片",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }，   
+    {
+      "key": "苹果",
+      "name": "🍎小苹果┃秒播",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "publicIv": "ed5fdsgucxumegqa",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "./lib/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰 • APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./lib/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "金牌app",
+      "name": "金牌 • APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://qj4.catbb.xyz",
+        "dataKey": "eecbio48dsq13kkk",
+        "dataIv": "eecbio48dsq13kkk",
+        "search": "searchList4",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "🥝魔方┃App",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://www.26mf4k.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "金牌影视",
+      "name": "🎃金牌┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+    {
+      "key": "热播影视",
+      "name": "😋热播┃app",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "天堂",
+      "name": "🌧天堂┃app",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "publicIv": "ed5fdsgucxumegqa",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "./lib/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "华谊",
+      "name": "🍋华谊┃app",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "publicIv": "ed5fdsgucxumegqa",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "./lib/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "KUlao永乐JS",
+      "name": "🗻永乐┃APP",
+      "type": 3,
+      "api": "./lib/0338609bd59d7b27226f5a269ec97936.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    }
+  ],
+  "parses": [],
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
+  "lives": [
+    {
+      "name": "味精直播",
+      "type": 0,
+      "url": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/wjzb",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+    {
+      "name": "ITV咪咕",
+      "type": 0,
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+      "timeout": 10
+    },
+    {
+      "name": "最新咪咕",
+      "type": 0,
+      "url": "http://gc.gt.tc/c/最新·咪咕 秒.txt",
+      "timeout": 10
+    },
+    {
+      "name": "鑫鑫咪咕",
+      "type": 0,
+      "url": "./lib/xinzb.txt",
+      "timeout": 10
+    },
+    {
+      "name": "咪咕52",
+      "type": 0,
+      "url": "http://www.52top.com.cn:678/list.php?fileid=migu",
+      "timeout": 10
+    },
+    {
+      "name": "尘墨",
+      "type": 0,
+      "url": "https://52xiaobai.cn/ceshi/zb.php",
+      "timeout": 10
+    },
+    {
+      "name": "潇雨萌萌",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz",
+      "timeout": 10
+    },
+    {
+      "name": "潇雨萌萌(限时看)",
+      "type": 0,
+      "url": "http://43.251.226.110:9991/684625",
+      "timeout": 10
+    },
+    {
+      "name": "应该能看",
+      "type": 0,
+      "url": "./lib/iptv.txt",
+      "timeout": 10
+    },
+    {
+      "name": "经典电视剧",
+      "type": 0,
+      "url": "./lib/经典电视剧.txt",
+      "timeout": 10
+    },
+    {
+      "name": "不知道能用多久",
+      "type": 0,
+      "url": "./lib/15fde33c6a9638590910d23179208bc1.txt",
+      "timeout": 10
+    },
+    {
+      "name": "夜空",
+      "type": 0,
+      "url": "./lib/4f5dad27633e1293d7ef2317ee9c801e.txt",
+      "timeout": 10
+    },
+    {
+      "name": "前缘接口",
+      "type": 0,
+      "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/前缘接口.png"
+    },
+    {
+      "name": "壹米接口",
+      "type": 0,
+      "url": "https://gitee.com/yimi321/tv/raw/master/tv.png",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/壹米接口.png"
+    },
+    {
+      "name": "日后接口",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/日后接口.png"
+    },
+    {
+      "name": "DS9接口",
+      "type": 0,
+      "url": "./lib/ds9.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/DS9接口.png"
+    },
+    {
+      "name": "云端接口",
+      "type": 0,
+      "url": "./lib/yunduan.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/云端接口.png"
+    },
+    {
+      "name": "测试接口",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/测试接口.png"
+    },
+    {
+      "name": "月下接口",
+      "type": 0,
+      "url": "./lib/interface.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/月下接口.png"
+    },
+    {
+      "name": "DG接口",
+      "type": 0,
+      "url": "./lib/dgtv.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/DG接口.png"
+    },
+    {
+      "name": "天空接口",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/天空接口.png"
+    },
+    {
+      "name": "念心接口",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/念心接口.png"
+    },
+    {
+      "name": "Wirili接口",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/Wirili接口.png"
+    },
+    {
+      "name": "咪咕接口",
+      "type": 0,
+      "url": "./lib/interface.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/咪咕接口.png"
+    },
+    {
+      "name": "电视多接口",
+      "type": 0,
+      "url": "./lib/yiyifafa.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/电视多接口.png"
+    },
+    {
+      "name": "Box接口",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/Box接口.png"
+    },
+    {
+      "name": "易发接口",
+      "type": 0,
+      "url": "./lib/yiyifafa.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/易发接口.png"
+    },
+    {
+      "name": "飞扬接口",
+      "type": 0,
+      "url": "https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/飞扬接口.png"
+    },
+    {
+      "name": "天浪接口",
+      "type": 0,
+      "url": "./lib/live1.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/天浪接口.png"
+    },
+    {
+      "name": "DSJ接口",
+      "type": 0,
+      "url": "./lib/dsj10.1.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/DSJ接口.png"
+    },
+    {
+      "name": "风云接口",
+      "type": 0,
+      "url": "./lib/FYTV.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云接口.png"
+    },
+    {
+      "name": "TNT接口",
+      "type": 0,
+      "url": "./lib/iptv.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/TNT接口.png"
+    },
+    {
+      "name": "裤佬接口",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/裤佬接口.png"
+    },
+    {
+      "name": "龙壹接口",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙壹接口.png"
+    },
+    {
+      "name": "潇宇接口",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/潇宇接口.png"
+    },
+    {
+      "name": "拾光接口",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/拾光接口.png"
+    },
+    {
+      "name": "APTV接口",
+      "type": 0,
+      "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/APTV接口.png"
+    },
+    {
+      "name": "Guovin接口",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/Guovin接口.png"
+    },
+    {
+      "name": "网页接口",
+      "type": 0,
+      "url": "./lib/webview.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/网页接口.png"
+    },
+    {
+      "name": "Web接口",
+      "type": 0,
+      "url": "./lib/350735607a786faaaa69aa5bbe3a3078.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/Web接口.png"
+    },
+    {
+      "name": "娱乐接口",
+      "type": 0,
+      "url": "https://m.iill.top/Live.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/娱乐接口.png"
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙一起看.png"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/斗鱼一起看.png"
+    },
+    {
+      "name": "yy轮播接口",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/yy轮播接口.png"
+    },
+    {
+      "name": "澜露接口",
+      "type": 0,
+      "url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/澜露接口.png"
+    },
+    {
+      "name": "组播直播",
+      "type": 0,
+      "url": "./lib/zubo_all.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 20,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Guovin",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 20,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "./lib/01.电视直播.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/01.电视直播.png"
+    },
+    {
+      "name": "轮播大杂烩1",
+      "type": 0,
+      "url": "./lib/02.轮播大杂烩1.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/02.轮播大杂烩1.png"
+    },
+    {
+      "name": "分类电影",
+      "type": 0,
+      "url": "./lib/03.分类电影.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/03.分类电影.png"
+    },
+    {
+      "name": "万部电影",
+      "type": 0,
+      "url": "./lib/04.万部电影.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/04.万部电影.png"
+    },
+    {
+      "name": "轮播大杂烩2",
+      "type": 0,
+      "url": "./lib/05.轮播大杂烩2.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/05.轮播大杂烩2.png"
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/06.虎牙一起看.png"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/07.斗鱼一起看.png"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/08.B站直播.png"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/09.YY轮播.png"
+    },
+    {
+      "name": "🐅老三TV",
+      "type": 0,
+      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/zb",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "壹米直播",
+      "type": 0,
+      "url": "https://gitee.com/yimi321/ymys/raw/master/lib/tv.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 5,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "notice": "欢迎使用老三影视",
+  "spider": "./spider.jar",
+  "wallpaper": "无",
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
