@@ -137,16 +137,6 @@
       }
     },
     {
-      "key": "柠檬",
-      "name": "❤红盒┃秒播",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./lib/柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    
-    {
       "key": "天堂",
       "name": "🌧天堂┃app",
       "type": 3,
@@ -188,25 +178,11 @@
         "decrypt": "1"
       }
     },
-    
-   
     {
       "key": "永乐s",
       "name": "🐷永乐s┃🈶2K",
       "type": 3,
       "api": "./lib/ylsp_open.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-   
-    {
-      "key": "KUlao永乐JS",
-      "name": "🗻永乐┃APP",
-      "type": 3,
-      "api": "./lib/0338609bd59d7b27226f5a269ec97936.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
