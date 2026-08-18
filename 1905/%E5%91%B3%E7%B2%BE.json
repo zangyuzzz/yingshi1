@@ -1,5 +1,19 @@
 {
   "sites": [
+     {
+      "key": "4K影视",
+      "name": "🏆观影┃app",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:9002",
+        "dataKey": "FTgP4Gq8zPiqbt7M",
+        "dataIv": "FTgP4Gq8zPiqbt7M"
+      }
+    },
    {
       "key": "1905",
       "name": "⚡1905┃老片",
